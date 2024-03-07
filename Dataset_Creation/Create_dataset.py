@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 import os
 from tqdm import tqdm
-
+#marco was here 
 def Crete_Folder_Images(name, directory, tn):
     # Creating directory in the file
     if not os.path.exists(directory):
